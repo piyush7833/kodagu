@@ -103,6 +103,12 @@ const Head = () => {
                 <div className='overflow-hidden cursor-pointer text-gray-400 circle rounded-full h-4 w-4 shadow-md shadow-gray-200 items-center flex justify-center justify-items-center text-justify' >
                 <img src="./7.png" alt="" srcset="" />
                 </div>
+                <div className='overflow-hidden cursor-pointer text-gray-400 circle rounded-full h-4 w-4 shadow-md shadow-gray-200 items-center flex justify-center justify-items-center text-justify' >
+                <img src="./8.png" alt="" srcset="" />
+                </div>
+                <div className='overflow-hidden cursor-pointer text-gray-400 circle rounded-full h-4 w-4 shadow-md shadow-gray-200 items-center flex justify-center justify-items-center text-justify' >
+                <img src="./9.png" alt="" srcset="" />
+                </div>
               </div>
             </div>
             <p className='text-sm text-black'>Make Money Online Through</p>
@@ -321,6 +327,9 @@ const Head = () => {
                 <div className='overflow-hidden cursor-pointer text-gray-400 circle rounded-full h-4 w-4 shadow-md shadow-gray-200 items-center flex justify-center justify-items-center text-justify' >
                 <img src="./7.png" alt="" srcset="" />
                 </div>
+                <div className='overflow-hidden cursor-pointer text-gray-400 circle rounded-full h-4 w-4 shadow-md shadow-gray-200 items-center flex justify-center justify-items-center text-justify' >
+                <img src="./8.png" alt="" srcset="" />
+                </div>
               </div>
             </div>
             <p className='text-sm text-black'>Importance Of The Custom ...</p>
@@ -336,8 +345,8 @@ const Head = () => {
                 </div>
               </div>
               <div className="Avatrs flex flex-shrink w-1/2 items-center justify-end">
-                <div className='cursor-pointer text-gray-400 circle rounded-full h-4 w-4 shadow-md shadow-gray-200 items-center flex justify-center justify-items-center text-justify' >
-                  <Add />
+                <div className='overflow-hidden cursor-pointer text-gray-400 circle rounded-full h-4 w-4 shadow-md shadow-gray-200 items-center flex justify-center justify-items-center text-justify' >
+                <img src="./7.png" alt="" srcset="" />
                 </div>
               </div>
             </div>

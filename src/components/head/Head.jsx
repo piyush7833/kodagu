@@ -69,23 +69,23 @@ const Head = () => {
                   Space Tasks 2
                 </div>
                 <div className="Avatrs flex flex-shrink w-1/2 items-center justify-end">
-                  <div className='cursor-pointer text-gray-400 circle rounded-full h-4 w-4 shadow-md shadow-gray-200 items-center flex justify-center justify-items-center text-justify' >
-                    <Add />
+                  <div className='overflow-hidden cursor-pointer text-gray-400 circle rounded-full h-4 w-4 shadow-md shadow-gray-200 items-center flex justify-center justify-items-center text-justify' >
+                    <img src="./7.png" alt="" srcset="" />
                   </div>
                 </div>
               </div>
               <p className='text-sm text-black px-4'>Make Money Online Through</p>
               <div className="icons flex items-center justify-around ">
                 <div className="justify-around flex">
-                  <div className="icon flex justify-between">
+                  <div className="icon flex justify-between mx-1">
                     <List className='text-gray-400' />
                     List
                   </div>
-                  <div className="icon flex justify-between">
+                  <div className="icon flex justify-between mx-1">
                     <AttachFile className='rotate-90 text-gray-400' />
                     2
                   </div>
-                  <div className="icon flex justify-between">
+                  <div className="icon flex justify-between mx-1">
                     <Alarm className='text-gray-400' />
                     6 days left
                   </div>
@@ -100,8 +100,8 @@ const Head = () => {
                 Space Tasks 2
               </div>
               <div className="Avatrs flex flex-shrink w-1/2 items-center justify-end">
-                <div className='cursor-pointer text-gray-400 circle rounded-full h-4 w-4 shadow-md shadow-gray-200 items-center flex justify-center justify-items-center text-justify' >
-                  <Add />
+                <div className='overflow-hidden cursor-pointer text-gray-400 circle rounded-full h-4 w-4 shadow-md shadow-gray-200 items-center flex justify-center justify-items-center text-justify' >
+                <img src="./7.png" alt="" srcset="" />
                 </div>
               </div>
             </div>
@@ -113,8 +113,8 @@ const Head = () => {
                 Space Tasks 2
               </div>
               <div className="Avatrs flex flex-shrink w-1/2 items-center justify-end">
-                <div className='cursor-pointer text-gray-400 circle rounded-full h-4 w-4 shadow-md shadow-gray-200 items-center flex justify-center justify-items-center text-justify' >
-                  <Add />
+                <div className='overflow-hidden cursor-pointer text-gray-400 circle rounded-full h-4 w-4 shadow-md shadow-gray-200 items-center flex justify-center justify-items-center text-justify' >
+                <img src="./7.png" alt="" srcset="" />
                 </div>
               </div>
             </div>
@@ -126,8 +126,8 @@ const Head = () => {
                 Space Tasks 2
               </div>
               <div className="Avatrs flex flex-shrink w-1/2 items-center justify-end">
-                <div className='cursor-pointer text-gray-400 circle rounded-full h-4 w-4 shadow-md shadow-gray-200 items-center flex justify-center justify-items-center text-justify' >
-                  <Add />
+                <div className='overflow-hidden cursor-pointer text-gray-400 circle rounded-full h-4 w-4 shadow-md shadow-gray-200 items-center flex justify-center justify-items-center text-justify' >
+                <img src="./7.png" alt="" srcset="" />
                 </div>
               </div>
             </div>
@@ -139,8 +139,8 @@ const Head = () => {
                 Space Tasks 2
               </div>
               <div className="Avatrs flex flex-shrink w-1/2 items-center justify-end">
-                <div className='cursor-pointer text-gray-400 circle rounded-full h-4 w-4 shadow-md shadow-gray-200 items-center flex justify-center justify-items-center text-justify' >
-                  <Add />
+                <div className='overflow-hidden cursor-pointer text-gray-400 circle rounded-full h-4 w-4 shadow-md shadow-gray-200 items-center flex justify-center justify-items-center text-justify' >
+                <img src="./7.png" alt="" srcset="" />
                 </div>
               </div>
             </div>
@@ -152,8 +152,8 @@ const Head = () => {
                 Space Tasks 2
               </div>
               <div className="Avatrs flex flex-shrink w-1/2 items-center justify-end">
-                <div className='cursor-pointer text-gray-400 circle rounded-full h-4 w-4 shadow-md shadow-gray-200 items-center flex justify-center justify-items-center text-justify' >
-                  <Add />
+                <div className='overflow-hidden cursor-pointer text-gray-400 circle rounded-full h-4 w-4 shadow-md shadow-gray-200 items-center flex justify-center justify-items-center text-justify' >
+                <img src="./7.png" alt="" srcset="" />
                 </div>
               </div>
             </div>
@@ -188,8 +188,8 @@ const Head = () => {
                 Space Tasks 2
               </div>
               <div className="Avatrs flex flex-shrink w-1/2 items-center justify-end">
-                <div className='cursor-pointer text-gray-400 circle rounded-full h-4 w-4 shadow-md shadow-gray-200 items-center flex justify-center justify-items-center text-justify' >
-                  <Add />
+                <div className='overflow-hidden cursor-pointer text-gray-400 circle rounded-full h-4 w-4 shadow-md shadow-gray-200 items-center flex justify-center justify-items-center text-justify' >
+                  <img src="./7.png" alt="" srcset="" />
                 </div>
               </div>
             </div>
@@ -206,23 +206,23 @@ const Head = () => {
                   Space Tasks 2
                 </div>
                 <div className="Avatrs flex flex-shrink w-1/2 items-center justify-end">
-                  <div className='cursor-pointer text-gray-400 circle rounded-full h-4 w-4 shadow-md shadow-gray-200 items-center flex justify-center justify-items-center text-justify' >
-                    <Add />
+                  <div className='overflow-hidden cursor-pointer text-gray-400 circle rounded-full h-4 w-4 shadow-md shadow-gray-200 items-center flex justify-center justify-items-center text-justify' >
+                  <img src="./7.png" alt="" srcset="" />
                   </div>
                 </div>
               </div>
               <p className='text-sm text-black px-4'>Make Money Online Through</p>
               <div className="icons flex items-center justify-around ">
                 <div className="justify-around flex">
-                  <div className="icon flex justify-between">
+                  <div className="icon flex justify-between mx-1">
                     <List className='text-gray-400' />
                     List
                   </div>
-                  <div className="icon flex justify-between">
+                  <div className="icon flex justify-between mx-1">
                     <AttachFile className='rotate-90 text-gray-400' />
                     2
                   </div>
-                  <div className="icon flex justify-between">
+                  <div className="icon flex justify-between mx-1">
                     <Alarm className='text-gray-400' />
                     6 days left
                   </div>
@@ -237,8 +237,8 @@ const Head = () => {
                 Space Tasks 2
               </div>
               <div className="Avatrs flex flex-shrink w-1/2 items-center justify-end">
-                <div className='cursor-pointer text-gray-400 circle rounded-full h-4 w-4 shadow-md shadow-gray-200 items-center flex justify-center justify-items-center text-justify' >
-                  <Add />
+                <div className='overflow-hidden cursor-pointer text-gray-400 circle rounded-full h-4 w-4 shadow-md shadow-gray-200 items-center flex justify-center justify-items-center text-justify' >
+                <img src="./7.png" alt="" srcset="" />
                 </div>
               </div>
             </div>
@@ -251,25 +251,25 @@ const Head = () => {
                 Space Tasks 2
               </div>
               <div className="Avatrs flex flex-shrink w-1/2 items-center justify-end">
-                <div className='cursor-pointer text-gray-400 circle rounded-full h-4 w-4 shadow-md shadow-gray-200 items-center flex justify-center justify-items-center text-justify' >
-                  <Add />
+                <div className='overflow-hidden cursor-pointer text-gray-400 circle rounded-full h-4 w-4 shadow-md shadow-gray-200 items-center flex justify-center justify-items-center text-justify' >
+                <img src="./7.png" alt="" srcset="" />
                 </div>
               </div>
             </div>
             <p className='text-sm text-black'>Make Money Online Through</p>
             <div className="icons flex items-center justify-around ">
               <div className="justify-around flex">
-                <div className="icon flex justify-between">
+                <div className="icon flex justify-between mx-1">
                   <List className='text-gray-400' />
                   List
                 </div>
-                <div className="icon flex justify-between">
+                <div className="icon flex justify-between mx-1">
                   <AttachFile className='rotate-90 text-gray-400' />
                   2
                 </div>
-                <div className="icon flex justify-around font-bold text-red-600">
+                <div className="icon flex justify-around font-bold text-red-600 mx-1">
                   <Alarm />
-                  6 days left
+                  1 days left
                 </div>
               </div>
             </div>
@@ -305,8 +305,8 @@ const Head = () => {
                 Space Tasks 2
               </div>
               <div className="Avatrs flex flex-shrink w-1/2 items-center justify-end">
-                <div className='cursor-pointer text-gray-400 circle rounded-full h-4 w-4 shadow-md shadow-gray-200 items-center flex justify-center justify-items-center text-justify' >
-                  <Add />
+                <div className='overflow-hidden cursor-pointer text-gray-400 circle rounded-full h-4 w-4 shadow-md shadow-gray-200 items-center flex justify-center justify-items-center text-justify' >
+                <img src="./7.png" alt="" srcset="" />
                 </div>
               </div>
             </div>
@@ -318,8 +318,8 @@ const Head = () => {
                 Space Tasks 2
               </div>
               <div className="Avatrs flex flex-shrink w-1/2 items-center justify-end">
-                <div className='cursor-pointer text-gray-400 circle rounded-full h-4 w-4 shadow-md shadow-gray-200 items-center flex justify-center justify-items-center text-justify' >
-                  <Add />
+                <div className='overflow-hidden cursor-pointer text-gray-400 circle rounded-full h-4 w-4 shadow-md shadow-gray-200 items-center flex justify-center justify-items-center text-justify' >
+                <img src="./7.png" alt="" srcset="" />
                 </div>
               </div>
             </div>
@@ -330,9 +330,9 @@ const Head = () => {
             <div className="task flex items-center justify-around">
               <div className="taskName text-sm text-gray-400 w-1/2">
 
-                <div className="search h-12 w-60 border-0 flex justify-between items-center text-gray-400">
+                <div className="search h-12  border-0 flex justify-between items-center text-gray-400">
                   <Close />
-                  <input className='cursor-pointer w-4/5 border-0' type="text" name="" id="" placeholder='Task name or type' />
+                  <input className='cursor-pointer w-36 border-0' type="text" name="" id="" placeholder='Task name or type' />
                 </div>
               </div>
               <div className="Avatrs flex flex-shrink w-1/2 items-center justify-end">
@@ -343,16 +343,16 @@ const Head = () => {
             </div>
             <div className="icons flex items-center justify-around gap-1p">
               <div className="justify-around flex">
-                <div className="icon flex justify-between">
+                <div className="icon flex justify-between mx-2">
                   <Flag className='text-gray-400' />
                 </div>
-                <div className="icon flex justify-between">
+                <div className="icon flex justify-between mx-2">
                   <AttachFile className='rotate-90 text-gray-400' />
                 </div>
-                <div className="icon flex justify-around font-bold text-gray-400">
+                <div className="icon flex justify-around font-bold text-gray-400 mx-2">
                   <AccessTime />
                 </div>
-                <div className="btn bg-blue-600 h-8 px-2 py-1 flex justify-center items-center text-white">
+                <div className="btn bg-blue-600 h-8 px-2 py-1 flex justify-center items-center text-white mx-2">
                   Save
                 </div>
               </div>
@@ -385,8 +385,8 @@ const Head = () => {
                 Space Tasks 2
               </div>
               <div className="Avatrs flex flex-shrink w-1/2 items-center justify-end">
-                <div className='cursor-pointer text-gray-400 circle rounded-full h-4 w-4 shadow-md shadow-gray-200 items-center flex justify-center justify-items-center text-justify' >
-                  <Add />
+                <div className='overflow-hidden cursor-pointer text-gray-400 circle rounded-full h-4 w-4 shadow-md shadow-gray-200 items-center flex justify-center justify-items-center text-justify' >
+                <img src="./7.png" alt="" srcset="" />
                 </div>
               </div>
             </div>
@@ -394,7 +394,7 @@ const Head = () => {
           </div>
         </div>
       </div>
-      
+
       <div className="popUp h-last w-last bg-white p-8 right-0 bottom-0 fixed">
         <div className="first flex">
           <div className="title w-2/3 flex items-center justify-around">

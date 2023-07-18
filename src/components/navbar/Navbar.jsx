@@ -8,7 +8,7 @@ import CancelIcon from '@mui/icons-material/Cancel';
 import NotificationsIcon from '@mui/icons-material/Notifications';
 const Navbar = () => {
   return (
-    <div className='bg-slate-50 h-20 items-center flex justify-center border-2 border-gray-200 '>
+    <div className='bg-slate-50 h-20 items-center flex justify-center border-2 border-gray-200 text-sm'>
       <div className='w-sw flex items-center justify-between'>
         <div className='cursor-pointer text-gray-400 circle rounded-full h-12 w-12 shadow-md shadow-gray-200 items-center flex justify-center justify-items-center text-justify' >
           <MenuIcon />

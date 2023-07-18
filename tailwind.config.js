@@ -23,7 +23,8 @@ module.exports = {
          "wcprofile":"130px",
          "social":"240px",
          "head":"1110px",
-         "others":"230px"
+         "others":"230px",
+         "last":"450px"
       },
       height:{
         'sm':'90vh',
@@ -31,7 +32,8 @@ module.exports = {
         "hprofile":"110px",
         "hcprofile":"130px",
         "social":"60px",
-        "head":"1015px"
+        "head":"1015px",
+        "last":"340px"
       },
     },
   },

@@ -17,7 +17,7 @@ export default function RootLayout({ children }) {
       <body className={inter.className}>
         <div className="bg-slate-50">
       <Navbar/>
-      <div className="flex justify-between">
+      <div className="flex justify-between mt-4">
       <Menubar/>
       <Sidebar/>
       <Head/>
